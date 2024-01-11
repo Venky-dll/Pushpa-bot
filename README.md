@@ -1,6 +1,6 @@
 # Pushpa-bot
 
-A simple maths bot and a (kind of) weather reporter
+A simple maths bot and a (kind of) weather reporter.
 
 ## Quadratic Equation:
 
@@ -8,11 +8,11 @@ A simple maths bot and a (kind of) weather reporter
 
 -when __a__ and __b__ i.e., co-efficient of x<sup>2</sup> and co-efficient of x are both Zero,
 
--when __a__ and __c__ i.e., co-efficient of x<sup>2</sup> and constant are both Zero, and
+-when __a__ and __c__ i.e., co-efficient of x<sup>2</sup> and constant are both Zero,
 
--when __a__, the co-efficient of x<sup>2</sup> is Zero
+-when __a__, the co-efficient of x<sup>2</sup> is Zero, and
 
--when all of the above conditions are FALSE.
+-when all of the above conditions are __FALSE__.
 
 ## Weather:
 `!weather`, the command used to forecast the temparature of the user-defined city alongside the command. It also shows the current weather condition using an __emoji__ to do so. It relies on [this website](https://www.wttr.in) to extract and process as well as display the data, as per the user's need.
