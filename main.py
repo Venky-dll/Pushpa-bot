@@ -18,4 +18,4 @@ bot.add_command(roots)
 bot.add_command(weather)
     
 
-bot.run('MTE5NDg5NzA0NDAxNjQ4MDMzNw.Gh9xWY.sCioABEr1_ySsOnECSQgig0MZcgbnp12vj-Z4k')
+bot.run('bot_token')
