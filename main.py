@@ -13,7 +13,7 @@ bot = commands.Bot(command_prefix='!', intents=intents)
 async def on_ready():
     print(f'We have logged in as {bot.user}')
 
-# Import commands from quadratic.py
+# Import commands 
 bot.add_command(roots)
 bot.add_command(weather)
     
